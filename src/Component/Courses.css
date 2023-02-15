@@ -1,0 +1,26 @@
+body {
+  padding: 2px;
+}
+button {
+  background-color: hsl(158, 49%, 76%);
+  border-radius: 10px;
+  width: 150px;
+  height: 35px;
+}
+button:hover {
+  background-color: rgb(45, 00, 45);
+  color: aliceblue;
+  border: 2px solid;
+  border-radius: 30px;
+  transition: 0.4s;
+}
+.rk {
+  background-color: whitesmoke;
+  border-radius: 25px;
+  border: 1px solid black;
+}
+.rk:hover {
+  border-width: 3px;
+}
+
+

@@ -1,0 +1,49 @@
+.main{
+    margin: 0;
+    padding: 30px;
+    border-radius: 10px;
+    background-color:palevioletred;
+}
+.input{
+    border: solid 2px gray;
+    border-radius: 50px;
+}
+.bt{
+    border: solid 2px gray;
+    border-radius: 50px;
+}
+.c1{
+    position: relative;
+    display: inline-block;
+    margin: 2px 50px;
+    text-align: left;
+}
+.c2{
+    position: relative;
+    display: inline-block;
+    margin: 2px 50px;
+    text-align: left;
+}
+.c3{
+    position: relative;
+    display: inline-block;
+    margin: 2px 50px;
+    text-align: left;
+}
+.c4{
+    position: relative;
+    right:190px;
+}
+.img{
+    height: 50px;
+    width: 50px;
+}
+.ig{
+    position: absolute;
+    display: inline-block;
+    /* text-align: left; */
+    height: 550px;
+    width: 350px;
+    left: 10px;
+    padding-bottom: 50px;
+}
