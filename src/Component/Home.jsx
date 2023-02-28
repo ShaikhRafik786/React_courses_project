@@ -1,15 +1,15 @@
 import React from 'react';
 import Courses from './Courses';
-import MyCarousel from './MyCarousel';
 import Navigation from './Navigation';
+import Marque from './Marque';
 import Footer from './Footer/PageFooter';
 const Home = () => {
     return (
         <div>
            <Navigation/>
-           <MyCarousel/> 
-           <Courses/>
-           <Footer/>
+           <Marque/>
+            <Courses/>
+           <Footer/> 
         </div>
     );
 };

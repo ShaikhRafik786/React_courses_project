@@ -1,13 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import TodoList from "./Component/TODOLIST/TodoList";
-// import Home from "./Component/Home";
+import Home from "./Component/Home";
 function App() {
   return (
     <div className="App">
-      {/* <Home /> */}
+      <Home />
 
-      <TodoList/>
     </div>
   );
 }

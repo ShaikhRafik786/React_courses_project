@@ -20,7 +20,7 @@ const Courses = () => {
           height="150px"
           width="200px"
           variant="top"
-          src=" https://image.shutterstock.com/image-photo/html-code-logo-5-front-260nw-2148944343.jpg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU"
         />
         <Card.Body>
           <Card.Title>HTML</Card.Title>
