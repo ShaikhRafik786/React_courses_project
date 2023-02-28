@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Home from "./Component/Home";
+import Crudoperation from "./Component/Crudoperation";
 function App() {
   return (
     <div className="App">
-      <Home />
 
+        <Crudoperation/>
     </div>
   );
 }
